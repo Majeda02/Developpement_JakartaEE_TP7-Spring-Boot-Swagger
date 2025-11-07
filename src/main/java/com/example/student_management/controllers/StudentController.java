@@ -20,7 +20,8 @@ public class StudentController {
     @Autowired
     private StudentService studentService;
 
-    @Operation(summary = "Récupérer tous les étudiants")
+    @
+            Operation(summary = "Récupérer tous les étudiants")
     @GetMapping("/students")
     public List<Student> getAllStudents() {
         // Appel au service pour récupérer tous les étudiants
