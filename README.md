@@ -1,6 +1,6 @@
 "# Developpement_JakartaEE_TP7-Spring-Boot-Swagger" 
 
-"# TP-6-SpringBoot_Swagger" 
+
 
 #  Création du projet avec Spring Initializr #
 <img width="959" height="497" alt="TP6_1" src="https://github.com/user-attachments/assets/cd64dea1-734e-442a-9102-deee77b5c580" />
