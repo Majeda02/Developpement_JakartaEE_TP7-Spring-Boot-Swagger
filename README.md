@@ -25,9 +25,6 @@
    -->  Test du comptage des étudiants (GET)
 <img width="957" height="502" alt="TP6100" src="https://github.com/user-attachments/assets/a814206a-b5bf-409b-a3d8-3a7aaa33ccf9" />
 
-  --> Test du nombre d’étudiants par année de naissance (GET)
-  <img width="926" height="500" alt="TP6111" src="https://github.com/user-attachments/assets/a1a5b3f9-0445-4322-bdf5-58bcebd94ac0" /> 
-  Erreur
 
   #  Tests unitaires avec JUnit 5 et Mockito #
 <img width="952" height="500" alt="TP612" src="https://github.com/user-attachments/assets/b45c2915-cda7-40a2-bfbc-f17e4bfbd2c0" />
